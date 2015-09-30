@@ -1,0 +1,25 @@
+{
+	"name": "noidle",
+	"version": "0.0.1",
+	"description": "NoIdle keeps your computer and applications awake by moving the mouse periodically.",
+	"main": "index.js",
+	"dependencies":
+	{
+		"robotjs": "^0.2.4"
+	},
+	"repository":
+	{
+		"type": "git",
+		"url": "git+https://github.com/octalmage/noidle.git"
+	},
+	"keywords": [
+		"idle"
+	],
+	"author": "Jason Stallings <jason@stallin.gs>",
+	"license": "GPL-3.0",
+	"bugs":
+	{
+		"url": "https://github.com/octalmage/noidle/issues"
+	},
+	"homepage": "https://github.com/octalmage/noidle#readme"
+}
