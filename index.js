@@ -23,4 +23,4 @@ setInterval(function()
     old.y = current.y;
     console.log(old.x);
 
-}, 30000);
+}, 60000);
